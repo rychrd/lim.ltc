@@ -5,12 +5,14 @@ build/
 externals/*.mxo
 externals/*.mxe64
 externals/*.mxe
+externals/
 
 # macOS
 .DS_Store
 
-# vs code
-.vs
+# IDE
+.vs 
+.idea/
 
 #max sdk
 max-sdk-base/
