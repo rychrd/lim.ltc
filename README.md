@@ -51,6 +51,7 @@ Place the built external in a Max package's `externals` folder. Then create a
 `lim.ltc~` object.
 
 ## License
-Licensed under the MIT License
+Licensed under the MIT License.
+
 libltc is LGPLv3 and is statically linked here; see `third_party/libltc/COPYING`.
 
