@@ -1,7 +1,7 @@
 # lim.ltc~
 
 A Max/MSP external that generates SMPTE **LTC** (Linear Timecode) using [libltc](https://github.com/x42/libltc) for the
-biphase-mark encoding and the [Max 8.2 SDK](https://github.com/Cycling74/max-sdk).
+Manchester encoding and [Max 8.2 SDK] (https://github.com/Cycling74/max-sdk).
 
 
 ## Messages
